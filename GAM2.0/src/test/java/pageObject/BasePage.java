@@ -20,7 +20,7 @@ public abstract class BasePage {
   }  
 
   public String getPageTitle(){  
-   
+   sdrg
   }  
 
   public void navigate(String url){driver.get(url); }  
